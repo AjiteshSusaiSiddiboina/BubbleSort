@@ -1,0 +1,5 @@
+c:\users\tony\documents\visual studio 2010\Projects\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+c:\users\tony\documents\visual studio 2010\Projects\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+c:\users\tony\documents\visual studio 2010\Projects\bubblesort\bubblesort\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2010\Projects\bubblesort\bubblesort\obj\x86\Debug\bubblesort.exe
+c:\users\tony\documents\visual studio 2010\Projects\bubblesort\bubblesort\obj\x86\Debug\bubblesort.pdb
